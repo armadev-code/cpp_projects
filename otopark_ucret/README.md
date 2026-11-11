@@ -4,4 +4,4 @@
 
 *otomobil=80TL
 *motosiklet=50TL
-*Minibüs=110TL
+*Minibüs=100TL
